@@ -15,8 +15,8 @@
 - `STEP 4`:- **Project build and run settings**
  Open up the Keil µVision software on your laptop. For a new project, you will be able to select the LPC1768 in your target device. Write up the code and add it to target folder. Now go to `Project` menu and click on `Options For Target`. In the `Target` tab, make sure that the missing compiler is NOT selected (any other is fine), and in the `Debug` tab, the `Use simulator` option is selected.<br>
  ![Project Target](https://github.com/ishan-surana/Keil--Vision-Installation/assets/121395061/0149cf95-2339-47ec-bdf7-9db56122cb90)
-<img src="https://github.com/ishan-surana/Keil--Vision-Installation/assets/121395061/46bf0108-f9e6-4c56-a3ae-07baa4c0d887" alt="Target" width="450"/>
-<img src="https://github.com/ishan-surana/Keil--Vision-Installation/assets/121395061/f62639c7-d408-40c7-9478-d1bac7eaf3d6" alt="Debug" width="450"/>
+<img src="https://github.com/ishan-surana/Keil--Vision-Installation/assets/121395061/46bf0108-f9e6-4c56-a3ae-07baa4c0d887" alt="Target" width="45%"/>
+<img src="https://github.com/ishan-surana/Keil--Vision-Installation/assets/121395061/f62639c7-d408-40c7-9478-d1bac7eaf3d6" alt="Debug" width="45%"/>
 
 <br><br>
   **Now you can build and run your programs as show in lab! ✨**
